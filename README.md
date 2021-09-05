@@ -7,6 +7,7 @@ make some changes.
 add the changes.
 commit changes.
 push changes back to their forked repository.
+Ths is a test for upstream set.
 
 
 
